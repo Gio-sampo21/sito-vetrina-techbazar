@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sito-vetrina-techbazar/static/css/main.e6c13ad2.css",
+    "main.js": "/sito-vetrina-techbazar/static/js/main.0fe6bbe3.js",
+    "static/media/Mylogo.png": "/sito-vetrina-techbazar/static/media/Mylogo.896c1abd0718088eb322.png",
+    "index.html": "/sito-vetrina-techbazar/index.html",
+    "main.e6c13ad2.css.map": "/sito-vetrina-techbazar/static/css/main.e6c13ad2.css.map",
+    "main.0fe6bbe3.js.map": "/sito-vetrina-techbazar/static/js/main.0fe6bbe3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0fe6bbe3.js"
+  ]
+}
